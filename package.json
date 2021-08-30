@@ -1,0 +1,101 @@
+[{
+        "id": 1,
+        "username": "student 1",
+        "codekata": {
+            "problemsDone": 20
+        },
+        "attendance": true,
+
+        "topics": [{
+
+                "month": "october",
+                "topicsCovered": ["HTML", "CSS"]
+            },
+            {
+                "month": "november",
+                "topicsCovered": ["JS", "ReactJS"]
+            },
+            {
+                "month": "november",
+                "topicsCovered": ["MYSQL", "MOngoDB"]
+            }
+        ],
+        "tasks": [{
+                "month": "october",
+                "taskList": ["pancard", "surveyform"],
+                "submittion": true,
+                "submittionDate": "16-oct-2020"
+            },
+            {
+                "month": "november",
+                "taskList": ["context", "Axios", "Formik"],
+                "submittion": false,
+                "submittionDate": false
+            },
+            {
+                "month": "november",
+                "taskList": ["MYSQL_Bolt", "Product_Info"],
+                "submittion": true,
+                "submittionDate": "28-oct-2020"
+            }
+        ],
+        "companyDrives": [{
+            "company_name": "CTS",
+            "placement": true,
+            "Date": "15-oct-2020"
+        }],
+        "mentor": {
+            "mentorName": "RV",
+            "MenteesCount": 15
+        }
+
+    },
+    {
+        "id": 2,
+        "username": "student 2",
+        "codekata": {
+            "problemsDone": 20
+        },
+        "attendance": false,
+
+        "topics": [{
+                "month": "november",
+                "topicsCovered": ["JS", "ReactJS"]
+            },
+            {
+                "month": "november",
+                "topicsCovered": ["MYSQL", "MOngoDB"]
+            }
+        ],
+        "tasks": [{
+                "month": "october",
+                "taskList": ["pancard", "surveyform"],
+                "submittion": true,
+                "submittionDate": "16-oct-2020"
+            },
+            {
+                "month": "november",
+                "taskList": ["context", "Axios", "Formik"],
+                "submittion": false,
+                "submittionDate": false
+            },
+            {
+                "month": "november",
+                "taskList": ["MYSQL_Bolt", "Product_Info"],
+                "submittion": true,
+                "submittionDate": "28-oct-2020"
+            }
+        ],
+        "companyDrives": [{
+            "company_name": "CTS",
+            "placement": true,
+            "Date": "15-oct-2020"
+        }],
+        "mentor": {
+            "mentorName": "RV",
+            "MenteesCount": 15
+        }
+
+    }
+
+]
